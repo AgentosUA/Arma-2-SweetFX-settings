@@ -4,7 +4,7 @@
 2. Закидываем файлы из папки "ready" в папку ArmA 2 Operation Arrowhead
 3. Перезапускаем игру
 
-## Installing SweetFX (2020)
+## SweetFX Installation (2020)
 1. Run the Arma 2 OA
 2. Copy files from the "ready" folder to the ArmA 2 Operation Arrowhead folder
 3. Restart the game
